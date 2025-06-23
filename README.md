@@ -1,4 +1,8 @@
 <!-- TODO: Get a job -->
+### NOTE: This is a fork of Zen-browser made by someone who doesn't know what they're doing
+### ====================================================
+
+
 <img src="./docs/assets/zen-dark.svg" width="100px" align="left">
 
 ### `Zen Browser`
