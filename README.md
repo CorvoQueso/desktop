@@ -2,6 +2,7 @@
 ### NOTE: This is a fork of Zen-browser made by someone who doesn't know what they're doing
 ### ====================================================
 
+This fork is literally just to change the width of the collapsed sidebar
 
 <img src="./docs/assets/zen-dark.svg" width="100px" align="left">
 
